@@ -4,8 +4,8 @@ import { Link, Outlet } from "react-router";
 export default function AppLayout() {
   return (
     <>
-      <header className="border-b border-b-gray-50">
-        <div className="navbar bg-base-100 shadow-sm py-1.5 px-3 max-w-7xl mx-auto">
+      <header className="sticky top-0 w-full border-b border-b-gray-50 shadow-sm bg-white z-10">
+        <div className="navbar bg-base-100 py-1.5 px-3 max-w-7xl mx-auto">
           <div className="flex-1">
             <div className="w-max">
               <Link
