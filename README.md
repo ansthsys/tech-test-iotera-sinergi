@@ -2,6 +2,10 @@
 
 tech test at Iotera Sinergi
 
+account demo: 
+- email: `admin@email.test`
+- password: `admin123`
+
 ## tech stack
 
 - react
